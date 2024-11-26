@@ -7,6 +7,6 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: 3-demo
+    branch: 4-demo
   url: https://github.com/Sonal0409/bb-app-source
 
